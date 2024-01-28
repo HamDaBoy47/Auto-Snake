@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Snake2022:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Snake2022_jar</output-path>
+    <root id="archive" name="Snake2022.jar">
+      <element id="module-output" name="Snake2022" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/FinalAttempt/out/artifacts/FinalAttempt_jar/FinalAttempt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Snake/Snake2022-v1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
